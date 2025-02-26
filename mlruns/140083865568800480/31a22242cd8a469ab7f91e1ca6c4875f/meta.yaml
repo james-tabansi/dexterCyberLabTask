@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/31a22242cd8a469ab7f91e1ca6c4875f/artifacts
+end_time: 1740599842558
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: 31a22242cd8a469ab7f91e1ca6c4875f
+run_name: Gradient Boosting Regressor
+run_uuid: 31a22242cd8a469ab7f91e1ca6c4875f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599839687
+status: 3
+tags: []
+user_id: TabansiJ

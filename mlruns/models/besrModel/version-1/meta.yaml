@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740600402186
+current_stage: None
+description: ''
+last_updated_timestamp: 1740600402186
+name: besrModel
+run_id: 80e879f15fe645768dca8e8bcdbe5367
+run_link: ''
+source: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/80e879f15fe645768dca8e8bcdbe5367/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/80e879f15fe645768dca8e8bcdbe5367/artifacts/model
+user_id: null
+version: 1

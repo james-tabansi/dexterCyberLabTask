@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/ac26ac4112734449928c13e6097f5f39/artifacts
+end_time: 1740599848610
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: ac26ac4112734449928c13e6097f5f39
+run_name: AdaBoost Regressor
+run_uuid: ac26ac4112734449928c13e6097f5f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599848296
+status: 3
+tags: []
+user_id: TabansiJ

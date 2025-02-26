@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/efb454e6e3ab49fab5c25c54b22a1ed7/artifacts
+end_time: 1740599850965
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: efb454e6e3ab49fab5c25c54b22a1ed7
+run_name: Least Angle Regression
+run_uuid: efb454e6e3ab49fab5c25c54b22a1ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599850638
+status: 3
+tags: []
+user_id: TabansiJ

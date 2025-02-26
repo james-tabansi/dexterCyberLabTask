@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/185b54bff7444ca69d10882484724f03/artifacts
+end_time: 1740599844141
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: 185b54bff7444ca69d10882484724f03
+run_name: Linear Regression
+run_uuid: 185b54bff7444ca69d10882484724f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599843854
+status: 3
+tags: []
+user_id: TabansiJ

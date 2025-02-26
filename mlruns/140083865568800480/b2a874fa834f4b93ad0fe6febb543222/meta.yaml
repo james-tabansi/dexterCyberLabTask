@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/b2a874fa834f4b93ad0fe6febb543222/artifacts
+end_time: 1740599850445
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: b2a874fa834f4b93ad0fe6febb543222
+run_name: Orthogonal Matching Pursuit
+run_uuid: b2a874fa834f4b93ad0fe6febb543222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599850089
+status: 3
+tags: []
+user_id: TabansiJ

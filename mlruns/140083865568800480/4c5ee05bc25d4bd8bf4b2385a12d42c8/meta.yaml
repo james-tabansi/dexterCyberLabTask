@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/4c5ee05bc25d4bd8bf4b2385a12d42c8/artifacts
+end_time: 1740599886569
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: 4c5ee05bc25d4bd8bf4b2385a12d42c8
+run_name: Random Forest Regressor
+run_uuid: 4c5ee05bc25d4bd8bf4b2385a12d42c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599883376
+status: 3
+tags: []
+user_id: TabansiJ

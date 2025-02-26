@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/a77dc081535745da9450fe34ad2101f2/artifacts
+end_time: 1740599848123
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: a77dc081535745da9450fe34ad2101f2
+run_name: Huber Regressor
+run_uuid: a77dc081535745da9450fe34ad2101f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599847843
+status: 3
+tags: []
+user_id: TabansiJ

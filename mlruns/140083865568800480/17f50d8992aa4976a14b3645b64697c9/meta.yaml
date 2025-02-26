@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/17f50d8992aa4976a14b3645b64697c9/artifacts
+end_time: 1740599849268
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: 17f50d8992aa4976a14b3645b64697c9
+run_name: Elastic Net
+run_uuid: 17f50d8992aa4976a14b3645b64697c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599848801
+status: 3
+tags: []
+user_id: TabansiJ

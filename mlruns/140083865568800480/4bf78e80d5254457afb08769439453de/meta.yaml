@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/4bf78e80d5254457afb08769439453de/artifacts
+end_time: 1740599847175
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: 4bf78e80d5254457afb08769439453de
+run_name: Ridge Regression
+run_uuid: 4bf78e80d5254457afb08769439453de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599846903
+status: 3
+tags: []
+user_id: TabansiJ

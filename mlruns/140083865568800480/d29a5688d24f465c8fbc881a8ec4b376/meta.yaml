@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/d29a5688d24f465c8fbc881a8ec4b376/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: d29a5688d24f465c8fbc881a8ec4b376
+run_name: Session Initialized 5818
+run_uuid: d29a5688d24f465c8fbc881a8ec4b376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599796793
+status: 1
+tags: []
+user_id: TabansiJ

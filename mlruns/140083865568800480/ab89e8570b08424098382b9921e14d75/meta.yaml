@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TabansiJ/Documents/DexterCyberLab/mlruns/140083865568800480/ab89e8570b08424098382b9921e14d75/artifacts
+end_time: 1740599834640
+entry_point_name: ''
+experiment_id: '140083865568800480'
+lifecycle_stage: active
+run_id: ab89e8570b08424098382b9921e14d75
+run_name: Extra Trees Regressor
+run_uuid: ab89e8570b08424098382b9921e14d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740599826364
+status: 3
+tags: []
+user_id: TabansiJ
