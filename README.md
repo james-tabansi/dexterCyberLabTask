@@ -125,8 +125,8 @@ The dataset contains user activity metrics recorded by a fitness tracker app.
 ---
 
 ## **Monitoring with Evidently AI**
-- Set up real-time drift detection (`evidently_monitoring.py`).
-- Uploaded reports to Evidently Cloud for visualization.
+- Real-time drift detection (`evidently_monitoring.py`).
+- Upload reports to Evidently Cloud for visualization.
 - Users can track performance drift on Evidently cloud once given permission.
 
 ---
@@ -135,21 +135,23 @@ The dataset contains user activity metrics recorded by a fitness tracker app.
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/fitness-tracker-api.git
+   git clone https://github.com/your-repo/fitness-tracker-api.git](https://github.com/james-tabansi/dexterCyberLabTask.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fitness-tracker-api
+   cd dexterCyberLabTask
    ```
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Start the FastAPI server:
+4. Creat a .env file to hold key credentials (evidently_ai_key, evidently_org_id)
+
+5. Start the FastAPI server:
    ```bash
-   uvicorn api_file:app --host 127.0.0.1 --port 3000
+   python api_file
    ```
-5. Launch the web app:
+6. Launch the web app:
    ```bash
    streamlit run web_app.py
    ```
@@ -157,18 +159,7 @@ To run the project locally:
 ---
 
 ## **Dependencies**
-- **Python 3.8+**
-- **FastAPI** (for API development)
-- **Streamlit** (for UI interaction)
-- **PyCaret** (for model training)
-- **MLflow** (for experiment tracking)
-- **Evidently AI** (for data drift monitoring)
-- **Docker** (for containerization)
-
----
-
-## **License**
-This project is licensed under the MIT License.
+- **See requirements.txt file**
 
 ---
 
@@ -176,6 +167,4 @@ This project is licensed under the MIT License.
 - **James Tabansi** (Project Lead)
 
 ---
-
-For any issues or contributions, please open an issue on [GitHub](https://github.com/your-repo/fitness-tracker-api/issues).
 
